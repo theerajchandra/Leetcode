@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/theerajchandra/Leetcode/tree/master/0006-zigzag-conversion) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/theerajchandra/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 <!---LeetCode Topics End-->
