@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/theerajchandra/Leetcode/tree/master/0001-two-sum) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
+| [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## String
 |  |
 | ------- |
@@ -30,8 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
+| [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/theerajchandra/Leetcode/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
