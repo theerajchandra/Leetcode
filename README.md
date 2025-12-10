@@ -9,16 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/theerajchandra/Leetcode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/theerajchandra/Leetcode/tree/master/0056-merge-intervals) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
+| [2933-high-access-employees](https://github.com/theerajchandra/Leetcode/tree/master/2933-high-access-employees) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/theerajchandra/Leetcode/tree/master/0001-two-sum) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
 | [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2933-high-access-employees](https://github.com/theerajchandra/Leetcode/tree/master/2933-high-access-employees) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/theerajchandra/Leetcode/tree/master/0006-zigzag-conversion) |
+| [2933-high-access-employees](https://github.com/theerajchandra/Leetcode/tree/master/2933-high-access-employees) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/theerajchandra/Leetcode/tree/master/0056-merge-intervals) |
+| [2933-high-access-employees](https://github.com/theerajchandra/Leetcode/tree/master/2933-high-access-employees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
