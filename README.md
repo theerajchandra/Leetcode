@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/theerajchandra/Leetcode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/theerajchandra/Leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
 | [2402-meeting-rooms-iii](https://github.com/theerajchandra/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2933-high-access-employees](https://github.com/theerajchandra/Leetcode/tree/master/2933-high-access-employees) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/theerajchandra/Leetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
 | [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2402-meeting-rooms-iii](https://github.com/theerajchandra/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -41,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/theerajchandra/Leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2402-meeting-rooms-iii](https://github.com/theerajchandra/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2933-high-access-employees](https://github.com/theerajchandra/Leetcode/tree/master/2933-high-access-employees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2402-meeting-rooms-iii](https://github.com/theerajchandra/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Data Stream
@@ -60,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/theerajchandra/Leetcode/tree/master/2402-meeting-rooms-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
