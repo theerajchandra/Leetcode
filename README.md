@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/theerajchandra/Leetcode/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/theerajchandra/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/theerajchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
 | [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/theerajchandra/Leetcode/tree/master/0146-lru-cache) |
 | [1249-snapshot-array](https://github.com/theerajchandra/Leetcode/tree/master/1249-snapshot-array) |
 | [2034-stock-price-fluctuation](https://github.com/theerajchandra/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Sorting
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/theerajchandra/Leetcode/tree/master/0853-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/theerajchandra/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/theerajchandra/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
