@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/theerajchandra/Leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/theerajchandra/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theerajchandra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/theerajchandra/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
